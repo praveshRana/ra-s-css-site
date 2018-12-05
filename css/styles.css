@@ -17,7 +17,8 @@ body {
 .top-container {
   background-color: #FFF59D;
   text-align: center;
-  height: 100vh;
+  height: 710px;
+  width: 1540px;
   margin-top: 0;
 }
 
@@ -25,30 +26,30 @@ body {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%;
-  height: 66%;
+  width: 1540px;
+  height: 510px;
 }
 
 .moon {
   position: relative;
-  left: 7vw;
-  bottom: 3vw;
+  left: 108px;
+  bottom: 46px;
   width: 6rem;
   height: 6rem;
 }
 
 .bottom-cloud {
   position: relative;
-  right: 20vw;
-  bottom: 1vw;
+  right: 308px;
+  bottom: 15.5px;
   width: 10rem;
   height: 6rem;
 }
 
 .top-cloud {
   position: relative;
-  top: 5vw;
-  left: 20vw;
+  top: 77px;
+  left: 308px;
   width: 10rem;
   height: 6rem;
 }
@@ -74,7 +75,9 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 .middle-container {
-  background-color: #EBF2F9
+  background-color: #EBF2F9;
+  width: 1540px;
+
 }
 .horizontal-line {
   text-align: center;
@@ -114,7 +117,7 @@ body {
 }
 .right-table {
   position: relative;
-  left: 25rem;
+  left: 460px;
   font-family: 'Montserrat', sans-serif;
 }
 .para2 {
