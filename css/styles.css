@@ -6,12 +6,12 @@ body {
   margin-bottom: inherit;
   margin-top: inherit;
   font-family: 'Kristi', cursive;
-  font-size: 4vw;
+  font-size: 62px;
 }
 
 .para1 {
   font-family: 'Walter Turncoat', cursive;
-  font-size: 1.75vw;
+  font-size: 27px ;
 }
 
 .top-container {
@@ -20,6 +20,7 @@ body {
   height: 710px;
   width: 1540px;
   margin-top: 0;
+  position: relative;
 }
 
 .mountain {
@@ -88,9 +89,9 @@ body {
   border-color: #85929E;
 }
 .qOwl {
-  width: 11em;
-  height: 18em;
-  border-radius: 8.5em;
+  width: 11rem;
+  height: 18rem;
+  border-radius: 8.5rem;
   border-width: thick;
   border-style: solid;
 }
@@ -102,12 +103,12 @@ body {
 
 .waltertext {
  font-family: 'Walter Turncoat', cursive;
- font-size: 1.5em;
+ font-size: 1.5rem;
 }
 
 .nightOwl {
-  width: 12em;
-  height:12em;
+  width: 12rem;
+  height:12rem;
 }
 
 .skill-right {
@@ -125,7 +126,7 @@ body {
   line-height: 1.5rem;
 }
 .skills {
-  margin: 5em auto;
+  margin: 5rem auto;
 }
 
 .para3 {
@@ -133,13 +134,14 @@ body {
   text-align: center;
 }
 .linkpng {
-  width: 4em;
-  height: 4em;
+  width: 4rem;
+  height: 4rem;
 }
 .bottom-container {
-  padding-top: 2em;
+  padding-top: 2rem;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   background-color: #FFF59D;
   width: 1540px;
+  margin-bottom: 0;
 }
